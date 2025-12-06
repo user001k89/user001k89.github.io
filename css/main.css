@@ -1385,7 +1385,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #bb57fa;
+    background: #98f487;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2941,7 +2941,7 @@ header.header {
 }
 body {
   position: relative;
-  background: transparent !important; /* �������Դ��ı���ɫ�ǵ� */
+  background: transparent !important;
 }
 body::before {
   content: '';
@@ -2950,13 +2950,13 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("/images/background.png") no-repeat center center fixed;
+  background: url("/images/bgp.png") no-repeat center center fixed;
   background-size: cover;
-  filter: blur(2px); /* �黯�̶ȣ���ֵԽ��Խģ�� */
-  transform: scale(1.05); /* �Ŵ�һ�㣬�����Ե¶�� */
-  z-index: -1; /* �ŵ��������� */
+  opacity: 0.6;
+  transform: scale(1.02);
+  z-index: -1;
 }
-/* �������ڱ���ͼ֮�� */
+/* ȷ�������ڱ���ͼ֮�� */
 #container,
 .container {
   position: relative;
