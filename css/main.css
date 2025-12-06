@@ -1385,7 +1385,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #98f487;
+    background: #b1ffff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1719,7 +1719,6 @@ pre code {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  flex-direction: column;
 }
 .links-of-blogroll-item {
   max-width: 100%;
@@ -2961,4 +2960,12 @@ body::before {
 .container {
   position: relative;
   z-index: 1;
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #0477ab;
+  text-decoration: underline;
 }
