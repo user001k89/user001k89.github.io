@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>翻译技巧</title>
-    <url>/2021/07/22/%E7%BF%BB%E8%AF%91%E6%8A%80%E5%B7%A7/</url>
-    <content><![CDATA[<iframe
-  src="/pdf/翻译技巧.pdf"
-  width="100%"
-  height="800"
-  style="border:none;"
->
-  你的浏览器不支持在线预览 PDF，请点击
-  <a href="/pdfs/fanyi-skill.pdf">这里下载 PDF</a>
-</iframe>]]></content>
-      <tags>
-        <tag>英语六级</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2025/12/06/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -33,5 +17,30 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>翻译技巧</title>
+    <url>/2025/12/07/%E7%BF%BB%E8%AF%91%E6%8A%80%E5%B7%A7/</url>
+    <content><![CDATA[<iframe
+  src="/pdf/翻译技巧.pdf"
+  width="100%"
+  height="800"
+  style="border:none;"
+>
+  你的浏览器不支持在线预览 PDF，请点击
+  <a href="/pdfs/fanyi-skill.pdf">这里下载 PDF</a>
+</iframe>
+<iframe
+  src="/pdf/听力技巧.pdf"
+  width="100%"
+  height="800"
+  style="border:none;"
+>
+  你的浏览器不支持在线预览 PDF，请点击
+  <a href="/pdfs/fanyi-skill.pdf">这里下载 PDF</a>
+</iframe>]]></content>
+      <tags>
+        <tag>英语六级</tag>
+      </tags>
   </entry>
 </search>
